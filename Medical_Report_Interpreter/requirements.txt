@@ -1,0 +1,9 @@
+streamlit
+pypdf2
+openai
+torch==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+pillow
+numpy
+pandas
+pdfplumber
+groq
